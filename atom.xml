@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SyoukoY&#39;Blog</title>
+  
+  <subtitle>我希望我的照片能够治愈你</subtitle>
+  <link href="https://www.syoukoy.top/atom.xml" rel="self"/>
+  
+  <link href="https://www.syoukoy.top/"/>
+  <updated>2023-04-04T09:41:00.000Z</updated>
+  <id>https://www.syoukoy.top/</id>
+  
+  <author>
+    <name>SyoukoY</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>demo</title>
+    <link href="https://www.syoukoy.top/2023/04/04/2023.4.4/"/>
+    <id>https://www.syoukoy.top/2023/04/04/2023.4.4/</id>
+    <published>2023-04-04T09:40:21.091Z</published>
+    <updated>2023-04-04T09:41:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="This-is-demo-md"><a href="#This-is-demo-md" class="headerlink" title="This is demo md"></a>This is demo md</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;This-is-demo-md&quot;&gt;&lt;a href=&quot;#This-is-demo-md&quot; class=&quot;headerlink&quot; title=&quot;This is demo md&quot;&gt;&lt;/a&gt;This is demo md&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
